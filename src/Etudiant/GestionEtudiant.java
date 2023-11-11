@@ -38,7 +38,7 @@ public class GestionEtudiant {
         System.out.println("\nInformations du département monDepInfo après désinscription de toto :");
         System.out.println(monDepInfo);
 
-
+       //
     }
 
 }
